@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Hosted\EvolentUI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>12/17/2019 22:53:16</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>12/17/2019 22:53:16</publishTime>
+    </File>
+    <File Include="bin/EvolentHealthUI.dll">
+      <publishTime>12/18/2019 01:00:48</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>12/12/2019 17:18:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/17/2019 22:53:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/17/2019 22:53:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/17/2019 22:53:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/17/2019 22:53:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/17/2019 22:53:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/17/2019 22:53:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/17/2019 22:53:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>12/17/2019 22:53:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>12/17/2019 22:53:08</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/17/2019 22:53:17</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.15.0-build58334.js">
+      <publishTime>12/17/2019 22:53:17</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>12/17/2019 22:53:17</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>12/17/2019 22:53:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>12/17/2019 22:53:09</publishTime>
+    </File>
+    <File Include="Views/Contact/Create.cshtml">
+      <publishTime>12/18/2019 01:03:54</publishTime>
+    </File>
+    <File Include="Views/Contact/Delete.cshtml">
+      <publishTime>12/18/2019 01:03:43</publishTime>
+    </File>
+    <File Include="Views/Contact/Details.cshtml">
+      <publishTime>12/17/2019 23:13:24</publishTime>
+    </File>
+    <File Include="Views/Contact/Edit.cshtml">
+      <publishTime>12/18/2019 01:03:25</publishTime>
+    </File>
+    <File Include="Views/Contact/GetALL.cshtml">
+      <publishTime>12/18/2019 01:03:12</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>12/17/2019 22:53:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/18/2019 01:00:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
